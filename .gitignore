@@ -1,0 +1,5 @@
+#Ignore R folders
+R/
+
+#Ignore DS_Store
+*.DS_Store
