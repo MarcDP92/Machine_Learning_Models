@@ -1,5 +1,7 @@
-#Ignore R folders
+#Ignore folders
 R/
+0-Data_Preprocessing/
+Model_Selection/
 
 #Ignore DS_Store
 *.DS_Store
